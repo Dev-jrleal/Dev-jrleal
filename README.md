@@ -1,4 +1,4 @@
-👋 Olá, eu sou [Junior Leal]!
+👋 Olá, eu sou Junior Leal!
 Quality Assurance Engineer em formação na área de TI, atualmente em transição de carreira e com um forte interesse por inovação, automação de testes e controle de qualidade. Meu objetivo é aplicar minhas habilidades para garantir a excelência e a confiabilidade de software por meio de práticas robustas de QA e automação.
 
 🔍 Sobre mim
