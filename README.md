@@ -56,8 +56,6 @@ Sou um **QA Engineer(Quality Assurance)** apaixonado por automação de testes e
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
 *https://github.com/Dev-jrleal*
 
