@@ -1,30 +1,73 @@
-👋 Olá, eu sou Junior Leal!
-Quality Assurance Engineer em formação na área de TI, atualmente em transição de carreira e com um forte interesse por inovação, automação de testes e controle de qualidade. Meu objetivo é aplicar minhas habilidades para garantir a excelência e a confiabilidade de software por meio de práticas robustas de QA e automação.
+# Olá, eu sou Celio Leal Junior! 👋
 
-🔍 Sobre mim
-💻 Carreira em transição: Deixei minha atuação como auxiliar de escritório e supervisor de estoque para buscar uma carreira promissora na área de TI.
-📚 Mentoria: Participo do programa "Guardião da Qualidade Pro" na LumeStack, onde estou desenvolvendo habilidades técnicas e práticas essenciais para QA.
-🎓 Educação: Curso de Programação Fullstack pela Infinity School e ensino médio completo.
-🧠 Interesses: Estudo aprofundado de Quality Assurance, testes automatizados com Cypress e Postman, GitHub Actions e práticas de Scrum.
-👨‍👩‍👦 Vida pessoal: Casado e pai de um filho pequeno, o Nicolas, o que me inspira a buscar uma carreira estável e em constante evolução.
-💼 Experiência
-Farmácia da Economia Nacional
-Cargo: Auxiliar de Escritório e Supervisor de Estoque
-Período: 18/10/2017 - 09/07/2021
-Desenvolvi habilidades em organização, supervisão de processos e trabalho em equipe, que agora aplico no campo de Quality Assurance para manter a consistência e eficiência.
-🔧 Habilidades e Ferramentas
-Linguagens: HTML, CSS, JavaScript
-Ferramentas de Teste: Cypress, Postman
-Controle de Versão: Git, GitHub Actions
-Metodologias: Scrum, Jira para gestão de projetos
-🌟 Objetivo
-Transformar a experiência prática e teórica em automação de testes e controle de qualidade para contribuir no desenvolvimento de softwares confiáveis e de alta qualidade. Estou constantemente em busca de aprimoramento, tanto nas práticas de QA quanto em novas tecnologias.
+Sou um **QA Engineer(Quality Assurance)** apaixonado por automação de testes e tecnologia, com experiência em ferramentas modernas como **Robot Framework**, **Python** e **Selenium**. Tenho um background híbrido que combina habilidades técnicas com competências administrativas e de gestão, adquirido em anos de atuação em setores como almoxarifado e administração. Meu foco é criar soluções escaláveis, garantir a qualidade de processos e softwares, e aprender continuamente em ambientes dinâmicos.
 
-🌱 Vamos nos conectar!
-Se você está no mundo da tecnologia e gosta de conversar sobre QA, automação, ou mesmo compartilhar dicas e experiências, fique à vontade para entrar em contato!
+---
 
+## 🔍 Sobre Mim
+- 🌍 **Localização**: Fortaleza, CE
+- 📧 **Contato**: juniorleal08@hotmail.com
+- 🔗 **LinkedIn**: https://bit.ly/qajrleal 
+- 💻 **Objetivo**: Aplicar meu conhecimento em automação de testes e crescer como profissional na área de QA e desenvolvimento de software.
 
-<!---
-Dev-jrleal/Dev-jrleal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠 Habilidades
+| **Categoria**         | **Tecnologias/Ferramentas**             |
+|-----------------------|-----------------------------------------|
+| Automação de Testes   | Robot Framework, SeleniumLibrary       |
+| Linguagens            | Python                                 |
+| Ferramentas           | Git, GitHub, Excel, Word               |
+| Gestão                | Controle de estoque, liderança, relatórios |
+
+---
+
+## 🚀 Projetos Destaques
+### Automação de Testes com Robot Framework. https://github.com/Dev-jrleal/projeto-robot.git
+- **Descrição**: Projeto de automação de testes funcionais para aplicações web, com foco em boas práticas e eficiência.
+- **Realizações**:
+  - Desenvolvi casos de teste reutilizáveis e modulares.
+  - Integração com Selenium para interação com navegadores.
+  - Relatórios detalhados que melhoraram a validação em 30%.
+- **Tecnologias**: Python, Robot Framework, Selenium, Git.
+
+*https://github.com/Dev-jrleal/projeto-robot.git*
+
+---
+
+## 💼 Experiência Profissional
+### Supervisor de Almoxarifado | Farmácia da Economia Nacional LTDA
+*Fev/2017 - Jul/2021 | Fortaleza, CE*
+- Gerenciei estoque e liderei uma equipe de 5 pessoas, aumentando a eficiência operacional em 15%.
+- Elaborei relatórios de desempenho para suporte à tomada de decisão.
+
+### Assistente Administrativo | Farmácia da Economia Nacional LTDA
+*Out/2017 - Jul/2021 | Fortaleza, CE*
+- Organizei documentos e reduzi o tempo de acesso em 20%.
+- Preparei relatórios financeiros e administrativos com Excel.
+
+---
+
+## 🎓 Formação
+- **Graduação ADS (Análise e Desenvolvimento de Sistemas)** (em andamento)  
+  *UniAteneu*, Fortaleza, CE  
+  *Conclusão prevista: 02/27*
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+*https://github.com/Dev-jrleal*
+
+---
+
+## 🌟 O que Estou Aprendendo
+- Aprofundando conhecimentos em **Python** e testes automatizados.
+- Explorando frameworks como **Cypress** e **Pytest** para expandir meu repertório em QA.
+
+---
+
+## 📬 Vamos Conectar?
+Fique à vontade para me contatar ou explorar meus repositórios! Estou sempre aberto a colaborações e oportunidades para crescer como profissional.
